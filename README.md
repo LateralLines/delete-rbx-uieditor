@@ -24,5 +24,7 @@ However, many still go out of their way to delete the plugin file itself every t
 9. Click OK, Yes, and OK
 10. Restart and relogin to your computer to trigger the script
 
+
 NOTE #1 - To change the frequency at which the plugin files are deleted, open Source.bat and change the 15 on line 4 to the desired whole number amount (in seconds)
-NOTE #2 - **Do not** rename, move, or delete the resources folder, along with its contents, that is referenced by the task scheduler, as the task will error and terminate.
+
+NOTE #2 - **Do not** rename, move, or delete the resources folder, along with its contents, that is referenced by the task scheduler, as this will cause the task to error and terminate itself.
