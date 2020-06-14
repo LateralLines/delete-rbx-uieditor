@@ -1,0 +1,1 @@
+del /s "%localappdata%\Roblox\Versions\UIEditor*"
