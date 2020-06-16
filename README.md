@@ -1,7 +1,7 @@
-Many developers adamently despise of the UI Editor simply because it lacks a native toggle button in Studio. From what I understand, there are a handful of user-made plugins that partially disable it, though it appears for nearly THREE years roblox devs have ignored our plees for a toggle button.
+Many developers adamently despise of the UI Editor simply because it lacks a native toggle button in Studio. From what I understand, there are a handful of user-made plugins that partially disable it, though it appears for nearly THREE years roblox devs have ignored our plees for a official toggle button.
 
 
-However, many still go out of their way to delete the plugin file itself every time studio updates. To streamline the deletion process a bit, I have written a couple simple commands/scripts that do this for you. Download the [resource files](https://github.com/LateralLines/delete-rbx-uieditor/tree/master/Resources) and follow the instructions below
+However, many still go out of their way to delete the plugin file itself every time studio updates. To streamline the deletion process a bit, I have written a couple simple commands/scripts that do this for you. Download the [resource folder](https://github.com/LateralLines/delete-rbx-uieditor/tree/master/Resources) and follow the instructions below
 
 
 # Method 1 - Manually execute a command
